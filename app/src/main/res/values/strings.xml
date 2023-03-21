@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ApiEjerMovies</string>
+
+    <string name="release_data">Fecha de lanzamiento:</string>
+    <string name="popularity">Popularidad:</string>
+    <string name="genders">Géneros:</string>
+    <string name="overview">Descripción:</string>
+    <string name="text_empty">- - -</string>
+    <string name="budget">Presupuesto:</string>
+    <string name="runtime">Duración de la película:</string>
+    <string name="runtimeLink">%s min.</string>
+
+</resources>
